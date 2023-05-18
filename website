@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PaRi - Premium Colors</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <style>
+    /* Add custom CSS styles here */
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">PaRi</a>
+  </nav>
+  
+  <div class="container mt-5">
+    <h1>Welcome to PaRi - Premium Colors</h1>
+    <p>
+      PaRi offers high-quality poster printouts in a variety of premium colors. Explore our collection and enhance your space with vibrant and scientifically inspired images.
+    </p>
+    
+    <h2>Contact Information</h2>
+    <ul>
+      <li>Contact number: 9324300733, 8560942034</li>
+      <li>Founders: Atul Tiwari and Saurabh Pandey</li>
+    </ul>
+    
+    <h2>Poster Printouts</h2>
+    <p>Choose from our stunning collection of premium colors and scientific images. Each poster is priced at just 50 ruppes*.</p>
+    
+    <div class="row">
+      <!-- Add your poster images and their descriptions here -->
+      <!-- Example:
+      <div class="col-lg-4 mb-4">
+        <img src="poster1.jpg" alt="Poster 1">
+        <p>Description of Poster 1</p>
+      </div>
+      -->
+    </div>
+  </div>
+  
+  <footer class="bg-dark text-white text-center py-3">
+    <p>&copy; 2023 PaRi. All rights reserved.</p>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
